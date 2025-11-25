@@ -1,0 +1,4 @@
+{
+  "name": "AI Recruiter Pro",
+  "description": "A sophisticated recruiting dashboard that uses Gemini to analyze bulk PDF resumes against job descriptions, providing scored candidates, strengths, and hiring recommendations in real-time."
+}
